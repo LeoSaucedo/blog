@@ -61,20 +61,20 @@ plugins:
 author:
   name: "Carlos Saucedo"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  bio: "Code craftsman, hiking aficionado, and travel enthusiast exploring the world one step and one line of code at a time."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Resume"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "https://cgsphoto.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/ThatLeoKid42"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/LeoSaucedo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/thatleokid/"
 
 footer:
   links:
@@ -83,10 +83,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/LeoSaucedo"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/thatleokid/"
 
 defaults:
   # _posts
